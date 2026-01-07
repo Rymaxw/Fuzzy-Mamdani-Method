@@ -1,6 +1,6 @@
 id_bengkel;Kualitas_Servis;Harga;mu_servis;mu_harga;inferensi_kelayakan_bengkel;Skor_Kelayakan
-AUTO33;10;5;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 0, 'sedang': 1, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.66666666666667
-AUTO95;5;1;{'buruk': 0, 'cukup': 1, 'baik': 0};{'murah': 1, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.66666666666667
-AUTO63;10;5;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 0, 'sedang': 1, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.66666666666667
-AUTO62;10;1;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 1, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.66666666666667
-AUTO13;5;2;{'buruk': 0, 'cukup': 1, 'baik': 0};{'murah': 0.75, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 0.75};82.78034439311214
+AUTO33;10;5;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 0, 'sedang': 1, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.67
+AUTO95;5;1;{'buruk': 0, 'cukup': 1, 'baik': 0};{'murah': 1, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.67
+AUTO63;10;5;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 0, 'sedang': 1, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.67
+AUTO62;10;1;{'buruk': 0, 'cukup': 0, 'baik': 1};{'murah': 1, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 1};83.67
+AUTO13;5;2;{'buruk': 0, 'cukup': 1, 'baik': 0};{'murah': 0.75, 'sedang': 0, 'mahal': 0};{'rendah': 0, 'sedang': 0, 'tinggi': 0.75};82.78
