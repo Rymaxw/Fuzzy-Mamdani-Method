@@ -1,4 +1,4 @@
-'Program Sistem Fuzzy Mamdani – Penentuan 5 Bengkel Terbaik'
+## Program Sistem Fuzzy Mamdani – Penentuan 5 Bengkel Terbaik
 
 Program ini digunakan untuk menentukan **5 bengkel terbaik** berdasarkan **kualitas servis** dan **harga** menggunakan **metode Fuzzy Mamdani**. Proses yang dilakukan meliputi pembacaan data, fuzzification, inferensi, dan defuzzification.
 
@@ -14,7 +14,7 @@ Program ini digunakan untuk menentukan **5 bengkel terbaik** berdasarkan **kuali
    ```
 3. Pastikan file berikut berada dalam **folder yang sama**:
 
-   * File utama program (`.ipynb` atau `.py`)
+   * File utama program (`.ipynb`)
    * `Dataset Bengkel AI.csv`
    * `Readme.txt`
 4. Jalankan program dari **cell/baris pertama hingga terakhir secara berurutan**.
