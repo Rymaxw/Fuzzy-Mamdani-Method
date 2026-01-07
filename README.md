@@ -110,6 +110,6 @@ Output akhir program berupa:
 
 * Skor kelayakan setiap bengkel
 * Daftar **5 bengkel terbaik** berdasarkan skor tertinggi
-* File CSV hasil perangkingan
+* File CSV hasil sorting
 
 ---
