@@ -1,6 +1,4 @@
-```
-Program Sistem Fuzzy Mamdani – Penentuan 5 Bengkel Terbaik
-```
+'Program Sistem Fuzzy Mamdani – Penentuan 5 Bengkel Terbaik'
 
 Program ini digunakan untuk menentukan **5 bengkel terbaik** berdasarkan **kualitas servis** dan **harga** menggunakan **metode Fuzzy Mamdani**. Proses yang dilakukan meliputi pembacaan data, fuzzification, inferensi, dan defuzzification.
 
